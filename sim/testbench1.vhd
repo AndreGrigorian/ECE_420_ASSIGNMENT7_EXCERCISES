@@ -106,8 +106,9 @@ begin
         cycles := cycles + 1;
       end loop;
 
-      report "DEFAULT (MAX=6,BITS=3): PASS";
-      wait;
+    report "DEFAULT (MAX=6,BITS=3): PASS";
+    std.env.finish;  -- end the sim even when using Run All
+
     end process;
   end block;
 

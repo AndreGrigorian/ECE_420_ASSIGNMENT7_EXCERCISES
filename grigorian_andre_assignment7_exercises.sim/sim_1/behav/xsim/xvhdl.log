@@ -1,0 +1,2 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx_Projects/ECE_420_ASSIGNMENT7_EXCERCISES/sim/testbench1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_counter_with_is_max_1cmp'

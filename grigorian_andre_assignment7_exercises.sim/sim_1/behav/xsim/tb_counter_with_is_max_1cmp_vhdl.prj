@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl2008 xil_defaultlib  \
+"../../../../src/counter_with_is_max_1cmp.vhd" \
+"../../../../sim/testbench1.vhd" \
+
+# Do not sort compile order
+nosort
