@@ -1,0 +1,23 @@
+# Vivado/Xilinx
+*.log
+*.pb
+*.jou
+*.wdb
+*.str
+*.dcp
+*.xpr
+*.xsa
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/sim_1/
+xsim.dir/
+xsim.ini
+xelab.pb
+xvhdl.pb
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
