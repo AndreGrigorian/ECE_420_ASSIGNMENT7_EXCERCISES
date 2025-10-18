@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+Error: DEF: is_max mismatch at count=0
+Time: 4 ns  Iteration: 0  Process: /tb_counter_with_is_max_1cmp/chk_default/line__81  File: C:/Users/ahgri/OneDrive/Desktop/Xilinx/grigorian_andre_assignment7_exercises/sim/testbench1.vhd
+Error: DEF: is_max mismatch at count=6
+Time: 52 ns  Iteration: 0  Process: /tb_counter_with_is_max_1cmp/chk_default/line__81  File: C:/Users/ahgri/OneDrive/Desktop/Xilinx/grigorian_andre_assignment7_exercises/sim/testbench1.vhd
+Error: DEF: is_max mismatch at count=0
+Time: 60 ns  Iteration: 0  Process: /tb_counter_with_is_max_1cmp/chk_default/line__81  File: C:/Users/ahgri/OneDrive/Desktop/Xilinx/grigorian_andre_assignment7_exercises/sim/testbench1.vhd
+Error: DEF: is_max mismatch at count=6
+Time: 108 ns  Iteration: 0  Process: /tb_counter_with_is_max_1cmp/chk_default/line__81  File: C:/Users/ahgri/OneDrive/Desktop/Xilinx/grigorian_andre_assignment7_exercises/sim/testbench1.vhd
+Error: DEF: is_max mismatch at count=0
+Time: 116 ns  Iteration: 0  Process: /tb_counter_with_is_max_1cmp/chk_default/line__81  File: C:/Users/ahgri/OneDrive/Desktop/Xilinx/grigorian_andre_assignment7_exercises/sim/testbench1.vhd
+Error: DEF: is_max mismatch at count=6
+Time: 164 ns  Iteration: 0  Process: /tb_counter_with_is_max_1cmp/chk_default/line__81  File: C:/Users/ahgri/OneDrive/Desktop/Xilinx/grigorian_andre_assignment7_exercises/sim/testbench1.vhd
+Error: DEF: is_max mismatch at count=0
+Time: 172 ns  Iteration: 0  Process: /tb_counter_with_is_max_1cmp/chk_default/line__81  File: C:/Users/ahgri/OneDrive/Desktop/Xilinx/grigorian_andre_assignment7_exercises/sim/testbench1.vhd
+Note: DEFAULT (MAX=6,BITS=3): PASS
+Time: 196 ns  Iteration: 0  Process: /tb_counter_with_is_max_1cmp/chk_default/line__81  File: C:/Users/ahgri/OneDrive/Desktop/Xilinx/grigorian_andre_assignment7_exercises/sim/testbench1.vhd
